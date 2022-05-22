@@ -10,3 +10,14 @@ body {
     margin: 0;
 }
 
+.wrapper {
+    padding: 2em;
+    display: flex;
+    justify-content: center;
+    border: .5em solid lightseagreen;
+    background-color: lightcoral;
+    min-height: 100vh;
+}
+
+
+
